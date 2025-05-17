@@ -1,4 +1,27 @@
 <<<<<<< HEAD
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Best-README-Template</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/">View Demo</a>
+    &middot;
+    <a href="https://github.com/">Report Bug</a>
+    &middot;
+    <a href="https://github.com/">Request Feature</a>
+  </p>
+</div>
+
 # Universidad Catolica de Pereira - Conceptos Básicos\n\nEste repositorio es para practicar ciommits, ramas y staging area.
 JM23
 =======
